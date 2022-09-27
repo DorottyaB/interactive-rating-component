@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/DorottyaB/interactive-rating-component)
+- Live Site URL: [https://dorottyab.github.io/interactive-rating-component/](https://dorottyab.github.io/interactive-rating-component/)
 
 ### Built with
 
