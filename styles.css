@@ -16,7 +16,7 @@ body {
   display: grid;
   grid-template-columns: auto;
   justify-items: center;
-  align-items: center;
+  align-items: end;
 }
 
 .container {
